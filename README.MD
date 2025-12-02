@@ -55,8 +55,7 @@ fcm-web-token-generator/
 ├── index.html                 # Main UI + Firebase logic
 ├── firebase-messaging-sw.js  # Service Worker for push handling
 ├── README.md
-├── .gitignore
-└── assets/                    # Optional resources
+└── .gitignore
 ```
 
 ### ⓘ Disclaimer
